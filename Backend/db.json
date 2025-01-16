@@ -1,0 +1,47 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Luxury Villa in Dubai",
+        "price": "AED 5,000,000",
+        "location": "Palm Jumeirah, Dubai",
+        "description": "A modern villa in the heart of Dubai."
+      },
+      {
+        "id": 2,
+        "title": "Modern Appartment",
+        "price": "AED 1,200,000",
+        "location": "Downtown Dubai",
+        "description": "Modern Apartment in the heart of Dubai."
+      },
+      {
+        "id": 3,
+        "title": "Luxury Villa in Dubai",
+        "price": "AED 5,000,000",
+        "location": "Palm Jumeirah, Dubai",
+        "description": "A modern villa in the heart of Dubai."
+      },
+      {
+        "id": 4,
+        "title": "Modern Appartment",
+        "price": "AED 1,200,000",
+        "location": "Downtown Dubai",
+        "description": "Modern Apartment in the heart of Dubai."
+      },
+      {
+        "id": 5,
+        "title": "Luxury Villa in Dubai",
+        "price": "AED 5,000,000",
+        "location": "Palm Jumeirah, Dubai",
+        "description": "A modern villa in the heart of Dubai."
+      },
+      {
+        "id":6,
+        "title": "Modern Appartment",
+        "price": "AED 1,200,000",
+        "location": "Downtown Dubai",
+        "description": "Modern Apartment in the heart of Dubai."
+      }
+    ]
+  }
+  
